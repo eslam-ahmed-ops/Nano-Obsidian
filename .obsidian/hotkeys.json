@@ -1,0 +1,11 @@
+{
+  "project-manager:new-project": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}
