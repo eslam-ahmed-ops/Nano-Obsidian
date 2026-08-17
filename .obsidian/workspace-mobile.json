@@ -155,19 +155,9 @@
           "icon": "lucide-list",
           "title": "المخطط التفصيلي"
         }
-      },
-      {
-        "id": "bd8f4a0b0d5ae243",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
