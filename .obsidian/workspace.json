@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e5645e8d87f342ab",
+        "id": "308c34c185f58720",
         "type": "tabs",
         "children": [
           {
-            "id": "49a8bcbe83cf24f3",
+            "id": "d3ec9aaf25cb1d5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,14 +187,14 @@
       "project-manager:Project manager": false
     }
   },
-  "active": "49a8bcbe83cf24f3",
+  "active": "d3ec9aaf25cb1d5f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Untitled.canvas",
     "Welcome.md",
+    "conflict-files-obsidian-git.md",
     "Projects/New Project_tasks/new-task.md",
     "Projects/New Project.md",
     "Projects/New Project_tasks",
-    "Untitled.canvas",
     "Projects"
   ]
 }
