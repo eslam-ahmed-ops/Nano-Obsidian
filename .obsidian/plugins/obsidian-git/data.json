@@ -19,7 +19,7 @@
   "updateSubmodules": false,
   "syncMethod": "merge",
   "mergeStrategy": "none",
-  "customMessageOnAutoBackup": false,
+  "customMessageOnAutoBackup": true,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": false,

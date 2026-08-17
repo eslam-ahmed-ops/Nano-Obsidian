@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "55ab49b17642fe8d",
+            "id": "003b7d69643c9767",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,13 +200,13 @@
       "project-manager:Project manager": false
     }
   },
-  "active": "55ab49b17642fe8d",
+  "active": "003b7d69643c9767",
   "lastOpenFiles": [
+    "Welcome.md",
     "Projects/New Project_tasks/new-task.md",
     "Projects/New Project.md",
     "Projects/New Project_tasks",
     "Untitled.canvas",
-    "Projects",
-    "Welcome.md"
+    "Projects"
   ]
 }
