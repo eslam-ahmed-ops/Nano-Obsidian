@@ -6,3 +6,5 @@ When you're ready, delete this note and make the vault your own.
 
 اهلا انا اسلام
 
+لما لم يتم منحي الاذن
+اهلا ما اسمك 
