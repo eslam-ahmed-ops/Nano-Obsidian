@@ -32,6 +32,9 @@
     "عقل ثاني": {
       "icon": "lucide-brain-cog",
       "color": "cyan"
+    },
+    "علمًا نافعًا": {
+      "icon": "lucide-microscope"
     }
   },
   "bookmarkIcons": {},
