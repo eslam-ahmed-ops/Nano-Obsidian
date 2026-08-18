@@ -23,5 +23,6 @@
     "editor:insert-horizontal-rule",
     "editor:insert-codeblock",
     "editor:insert-mathblock"
-  ]
+  ],
+  "rightToLeft": true
 }
