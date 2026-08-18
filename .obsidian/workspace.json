@@ -176,6 +176,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "project-manager:Project manager": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,6 +189,13 @@
   },
   "active": "d3ec9aaf25cb1d5f",
   "lastOpenFiles": [
+    "ملخص كورس Claude Code 101.md",
+    "دليل تحويل أي فكرة إلى مشروع جاهز للتنفيذ.md",
+    "خطة بنية المساعد الذكاء الاصطناعي التعليمي دقة 95%.md",
+    "تحويل الافكار الى مشاريع.md",
+    "برمجة/خطوات تحويل الأفكار إلى مشاريع تنفيذي.md",
+    "برمجة",
+    "create a link.md",
     "Untitled.canvas",
     "Welcome.md",
     "conflict-files-obsidian-git.md",
