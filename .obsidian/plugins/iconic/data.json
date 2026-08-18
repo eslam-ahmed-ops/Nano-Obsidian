@@ -28,7 +28,12 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "عقل ثاني": {
+      "icon": "lucide-brain-cog",
+      "color": "cyan"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
