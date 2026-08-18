@@ -29,9 +29,16 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "برمجة": {
+      "icon": "lucide-code-xml",
+      "color": "orange"
+    },
     "عقل ثاني": {
       "icon": "lucide-brain-cog",
       "color": "cyan"
+    },
+    "عقل ثاني/فكرة عن الانسان": {
+      "icon": "lucide-users"
     },
     "علمًا نافعًا": {
       "icon": "lucide-microscope",
