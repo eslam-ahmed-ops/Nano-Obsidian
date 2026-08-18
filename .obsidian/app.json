@@ -22,7 +22,8 @@
     "editor:configure-toolbar",
     "editor:insert-horizontal-rule",
     "editor:insert-codeblock",
-    "editor:insert-mathblock"
+    "editor:insert-mathblock",
+    "editor:insert-table"
   ],
   "rightToLeft": true
 }
