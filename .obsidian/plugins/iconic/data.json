@@ -34,7 +34,8 @@
       "color": "cyan"
     },
     "علمًا نافعًا": {
-      "icon": "lucide-microscope"
+      "icon": "lucide-microscope",
+      "color": "green"
     }
   },
   "bookmarkIcons": {},
