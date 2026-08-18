@@ -1,6 +1,6 @@
 
 ---
-#Claude-Skills
+#برمجة #Claude-Skills 
 
 ---
 ملخص كورس Claude Code 101 (غريب الشيخ)
