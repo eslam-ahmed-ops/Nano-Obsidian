@@ -36,6 +36,10 @@
     "علمًا نافعًا": {
       "icon": "lucide-microscope",
       "color": "green"
+    },
+    "علمًا نافعًا/المكتبة": {
+      "icon": "lucide-landmark",
+      "color": "purple"
     }
   },
   "bookmarkIcons": {},
