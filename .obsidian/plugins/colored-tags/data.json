@@ -11,7 +11,8 @@
   },
   "knownTags": {
     "المنصة": 1,
-    "مشاريع": 2
+    "مشاريع": 2,
+    "claude-skills": 3
   },
   "tagColors": {},
   "_version": 4
