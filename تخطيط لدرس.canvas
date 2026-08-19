@@ -1,5 +1,7 @@
 {
 	"nodes":[
+		{"id":"ec31cf59032020a7","x":-90,"y":750,"width":400,"height":400,"type":"group","label":"اهلا"},
+		{"id":"bac8854adfc6394e","x":240,"y":806,"width":158,"height":474,"type":"group","label":"مجموعة بلا عنوان"},
 		{"id":"60b342ee376a036a","x":-20,"y":-33,"width":176,"height":53,"color":"2","type":"text","text":"الانبات"},
 		{"id":"36800d5f13fa41e5","x":-48,"y":120,"width":250,"height":60,"type":"text","text":"ما هو الانبات"},
 		{"id":"42ca92da23e8023a","x":-246,"y":194,"width":250,"height":60,"type":"text","text":"طرق الانبات"},
