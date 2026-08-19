@@ -26,5 +26,6 @@
     "editor:insert-table"
   ],
   "rightToLeft": true,
-  "openBehavior": "file:بسم الله الرحمن الرحيم.md"
+  "openBehavior": "file:بسم الله الرحمن الرحيم.md",
+  "newFileLocation": "root"
 }
