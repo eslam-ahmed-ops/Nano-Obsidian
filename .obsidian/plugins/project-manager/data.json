@@ -1,6 +1,6 @@
 {
   "projectsFolder": "Projects",
-  "defaultView": "table",
+  "defaultView": "gantt",
   "ganttGranularity": "day",
   "ganttWeekLabel": "weekNumber",
   "statuses": [
