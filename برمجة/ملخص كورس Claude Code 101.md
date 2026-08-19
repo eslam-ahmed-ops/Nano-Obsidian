@@ -39,7 +39,7 @@
 
 
 
-
+[https://claude.nagdy.me/ar/](موقع لتعلم كلود)
 
 
 https://claude.nagdy.me/ar/
