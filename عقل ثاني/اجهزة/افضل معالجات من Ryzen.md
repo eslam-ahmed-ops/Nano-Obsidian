@@ -10,7 +10,7 @@ Ryzen 5 5600
 
 Ryzen 5 7600
 
-Ryzen 5 900
+Ryzen 5 9000
 
 
 ---
