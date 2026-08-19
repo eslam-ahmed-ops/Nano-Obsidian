@@ -47,6 +47,18 @@
     "عقل ثاني/تقنية عجيبة/اجهزة": {
       "icon": "lucide-monitor-smartphone"
     },
+    "عقل ثاني/تقنية عجيبة/اجهزة/افضل كروت شاشة من Nvidia.md": {
+      "icon": "lucide-gpu",
+      "color": "green"
+    },
+    "عقل ثاني/تقنية عجيبة/اجهزة/افضل معالجات من Amd.md": {
+      "icon": "lucide-cpu",
+      "color": "red"
+    },
+    "عقل ثاني/تقنية عجيبة/اجهزة/افضل معالجات من Intel.md": {
+      "icon": "lucide-cpu",
+      "color": "blue"
+    },
     "عقل ثاني/تقنية عجيبة/تطبيقات مفيدة": {
       "icon": "lucide-app-window"
     },
