@@ -24,7 +24,8 @@
     "لغات_برمحية": 18,
     "مشاريع": 2,
     "agent-skills": 11,
-    "claude-skills": 9
+    "claude-skills": 9,
+    "sql": 20
   },
   "tagColors": {},
   "_version": 4
