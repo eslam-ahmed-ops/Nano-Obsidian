@@ -27,5 +27,6 @@
   ],
   "rightToLeft": true,
   "openBehavior": "file:بسم الله الرحمن الرحيم.md",
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true
 }
