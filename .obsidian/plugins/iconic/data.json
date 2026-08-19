@@ -41,6 +41,9 @@
       "icon": "lucide-toolbox",
       "color": "cyan"
     },
+    "برمجة/وكلاء الذكاء الاصطناعي/تطوير ذكاء اصطناعي": {
+      "icon": "lucide-bot-message-square"
+    },
     "عقل ثاني": {
       "icon": "lucide-brain-cog",
       "color": "cyan"
