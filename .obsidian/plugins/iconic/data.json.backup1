@@ -28,7 +28,30 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "برمجة": {
+      "icon": "lucide-code-xml",
+      "color": "orange"
+    },
+    "برمجة/ادوات وكلاء الذكاء الاصطناعي": {
+      "icon": "lucide-astroid"
+    },
+    "عقل ثاني": {
+      "icon": "lucide-brain-cog",
+      "color": "cyan"
+    },
+    "عقل ثاني/فكرة عن الانسان": {
+      "icon": "lucide-users"
+    },
+    "علمًا نافعًا": {
+      "icon": "lucide-microscope",
+      "color": "green"
+    },
+    "علمًا نافعًا/المكتبة": {
+      "icon": "lucide-landmark",
+      "color": "purple"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
