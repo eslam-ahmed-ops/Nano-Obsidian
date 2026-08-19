@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"60b342ee376a036a","x":-20,"y":-33,"width":176,"height":53,"color":"2","type":"text","text":"الانبات"},
-		{"id":"36800d5f13fa41e5","x":-48,"y":120,"width":250,"height":60,"type":"text","text":"ما هو الانبات"}
-	],
-	"edges":[
-		{"id":"3861a7253fc3a9ad","fromNode":"60b342ee376a036a","fromSide":"bottom","toNode":"36800d5f13fa41e5","toSide":"top"}
-	]
-}
