@@ -40,7 +40,11 @@
       "icon": "lucide-brain-cog",
       "color": "cyan"
     },
-    "عقل ثاني/اجهزة": {
+    "عقل ثاني/تقنية عجيبة": {
+      "icon": "lucide-cpu",
+      "color": "blue"
+    },
+    "عقل ثاني/تقنية عجيبة/اجهزة": {
       "icon": "lucide-monitor-smartphone"
     },
     "عقل ثاني/فكرة عن الانسان": {
