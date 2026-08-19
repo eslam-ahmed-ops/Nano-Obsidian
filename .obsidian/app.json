@@ -25,5 +25,6 @@
     "editor:insert-mathblock",
     "editor:insert-table"
   ],
-  "rightToLeft": true
+  "rightToLeft": true,
+  "openBehavior": "file:بسم الله الرحمن الرحيم.md"
 }
