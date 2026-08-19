@@ -33,8 +33,13 @@
       "icon": "lucide-code-xml",
       "color": "orange"
     },
+    "برمجة/وكلاء الذكاء الاصطناعي": {
+      "icon": "lucide-astroid",
+      "color": "purple"
+    },
     "برمجة/وكلاء الذكاء الاصطناعي/ادوات وكلاء الذكاء الاصطناعي": {
-      "icon": "lucide-astroid"
+      "icon": "lucide-toolbox",
+      "color": "cyan"
     },
     "عقل ثاني": {
       "icon": "lucide-brain-cog",
