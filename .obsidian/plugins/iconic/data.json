@@ -33,6 +33,9 @@
       "icon": "lucide-code-xml",
       "color": "orange"
     },
+    "برمجة/المكتبة البرمجية": {
+      "icon": "lucide-database"
+    },
     "برمجة/وكلاء الذكاء الاصطناعي": {
       "icon": "lucide-astroid",
       "color": "purple"
