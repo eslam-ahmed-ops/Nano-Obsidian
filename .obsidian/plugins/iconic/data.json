@@ -40,6 +40,9 @@
       "icon": "lucide-brain-cog",
       "color": "cyan"
     },
+    "عقل ثاني/اجهزة": {
+      "icon": "lucide-monitor-smartphone"
+    },
     "عقل ثاني/فكرة عن الانسان": {
       "icon": "lucide-users"
     },
