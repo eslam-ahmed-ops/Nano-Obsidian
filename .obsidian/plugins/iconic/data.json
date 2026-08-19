@@ -63,7 +63,8 @@
       "icon": "lucide-app-window"
     },
     "عقل ثاني/وجهات نظر": {
-      "icon": "lucide-binoculars"
+      "icon": "lucide-binoculars",
+      "color": "purple"
     },
     "عقل ثاني/وجهات نظر/فكرة عن الانسان": {
       "icon": "lucide-users"
