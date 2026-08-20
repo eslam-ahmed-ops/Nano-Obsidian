@@ -29,6 +29,10 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "ان يتقنه/التربية والتعليم": {
+      "icon": "lucide-school",
+      "color": "orange"
+    },
     "برمجة": {
       "icon": "lucide-code-xml",
       "color": "orange"
