@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "الرئيسية.md",
+                "file": "برمجة/وكلاء الذكاء الاصطناعي/مهارة التعامل مع الوكلاء/ملخص كورس Claude Code 101.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "الرئيسية"
+              "title": "ملخص كورس Claude Code 101"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "d3ec9aaf25cb1d5f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "الرئيسية.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "Welcome.md",
     "Projects/New Project_tasks/new-task.md",
