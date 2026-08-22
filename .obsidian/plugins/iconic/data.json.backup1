@@ -28,7 +28,77 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "ان يتقنه/التربية والتعليم": {
+      "icon": "lucide-school",
+      "color": "orange"
+    },
+    "برمجة": {
+      "icon": "lucide-code-xml",
+      "color": "orange"
+    },
+    "برمجة/المكتبة البرمجية": {
+      "icon": "lucide-database"
+    },
+    "برمجة/وكلاء الذكاء الاصطناعي": {
+      "icon": "lucide-astroid",
+      "color": "purple"
+    },
+    "برمجة/وكلاء الذكاء الاصطناعي/ادوات وكلاء الذكاء الاصطناعي": {
+      "icon": "lucide-toolbox",
+      "color": "cyan"
+    },
+    "برمجة/وكلاء الذكاء الاصطناعي/تطوير ذكاء اصطناعي": {
+      "icon": "lucide-bot-message-square"
+    },
+    "عقل ثاني": {
+      "icon": "lucide-brain-cog",
+      "color": "cyan"
+    },
+    "عقل ثاني/تقنية عجيبة": {
+      "icon": "lucide-cpu",
+      "color": "blue"
+    },
+    "عقل ثاني/تقنية عجيبة/اجهزة": {
+      "icon": "lucide-monitor-smartphone"
+    },
+    "عقل ثاني/تقنية عجيبة/اجهزة/افضل كروت شاشة من Nvidia.md": {
+      "icon": "lucide-gpu",
+      "color": "green"
+    },
+    "عقل ثاني/تقنية عجيبة/اجهزة/افضل معالجات من Amd.md": {
+      "icon": "lucide-cpu",
+      "color": "red"
+    },
+    "عقل ثاني/تقنية عجيبة/اجهزة/افضل معالجات من Intel.md": {
+      "icon": "lucide-cpu",
+      "color": "blue"
+    },
+    "عقل ثاني/تقنية عجيبة/تطبيقات مفيدة": {
+      "icon": "lucide-app-window"
+    },
+    "عقل ثاني/ملاحظات يومية": {
+      "icon": "lucide-notebook-pen"
+    },
+    "عقل ثاني/وجهات نظر": {
+      "icon": "lucide-binoculars",
+      "color": "purple"
+    },
+    "عقل ثاني/وجهات نظر/فكرة عن الانسان": {
+      "icon": "lucide-users"
+    },
+    "عقل ثاني/وجهات نظر/فكرة عن الانسان/Screenshot_٢٠٢٦٠٨١٠_١٥٣٤١٢_YouTube.jpg": {
+      "icon": "lucide-file-image"
+    },
+    "علمًا نافعًا": {
+      "icon": "lucide-microscope",
+      "color": "green"
+    },
+    "علمًا نافعًا/المكتبة": {
+      "icon": "lucide-landmark",
+      "color": "purple"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

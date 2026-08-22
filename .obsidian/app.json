@@ -22,7 +22,11 @@
     "editor:configure-toolbar",
     "editor:insert-horizontal-rule",
     "editor:insert-codeblock",
-    "editor:insert-mathblock"
+    "editor:insert-mathblock",
+    "editor:insert-table"
   ],
-  "rightToLeft": true
+  "rightToLeft": true,
+  "openBehavior": "file:الرئيسية.md",
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true
 }

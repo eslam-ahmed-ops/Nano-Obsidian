@@ -1,9 +1,8 @@
 [
-  "project-manager",
   "obsidian-git",
-  "obsidian-kanban",
-  "obsidian-minimal-settings",
   "colored-tags",
   "iconic",
-  "editing-toolbar"
+  "obsidian-minimal-settings",
+  "editing-toolbar",
+  "obsidian-latex-suite"
 ]
