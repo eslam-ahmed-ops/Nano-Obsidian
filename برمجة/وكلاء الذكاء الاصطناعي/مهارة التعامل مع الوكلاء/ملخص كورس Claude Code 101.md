@@ -40,8 +40,6 @@
 
 
 
-[تلعك كلود
-](https://claude.nagdy.me/ar/")
-
-https://claude.nagdy.me/ar/
+[تعلم كلود](https://claude.nagdy.me/ar/")
+[[[تعلّم Claude Code بشكل تفاعلي — أحمد نجدي](https://claude.nagdy.me/ar/)]]
 
