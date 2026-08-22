@@ -40,6 +40,7 @@
 
 
 
-[تعلم كلود](https://claude.nagdy.me/ar/")
 
+
+https://claude.nagdy.me/ar/
 
