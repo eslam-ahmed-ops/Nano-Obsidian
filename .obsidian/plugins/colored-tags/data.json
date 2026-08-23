@@ -26,7 +26,8 @@
     "مشاريع": 2,
     "agent-skills": 11,
     "claude-skills": 9,
-    "sql": 20
+    "sql": 20,
+    "terminal": 22
   },
   "tagColors": {},
   "_version": 4
