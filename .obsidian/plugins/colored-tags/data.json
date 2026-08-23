@@ -1,8 +1,8 @@
 {
   "palette": {
     "seed": 0,
-    "selected": "custom",
-    "custom": "ec8990-ea999c-ed877f-ff8964-f49d71-49c1c1-59bac8-5cbae4-75b5f0-77abe6-87b0fc-8ca9f2-9e9ef5-a6a7f2-b3a2e9-c7a6e5-c58dd7-d3a6cd-cb8dbb-ec95d1-eb8acb-e791b7-ec95ba-eb8ab2-e67b93-e78284-ee7a6a-ea7956-ea8044-7baa46-6ea94c-68b464-56b362-64b57f-66b18a-3cbb97-32b6a5-48abc5-5dabe4-73a4e8-889ce8-b47dd4-c377ca-c585bf-c07db3-cb7eb2-c585a9-cb7e9e-ae375f-c76b7c-bd576a-d5687a-ce5d70-c8354e-e66772-e46666-d36a55-5f9a42-639f56-389f7c-559e86-307fa6-4b77cf-7e8be7-6c6cd0-8981e4-8d7cde-774bcf-8e64ce-883dae-a764a6-963d83-c577aa-cf4ba3-9c7177-8b6268-785057-9f7873-8e6763-7b5653-9f7873-8e6763-7b5653-97777a-87666a-74555a-95777b-84676b-71565a-907782-7f6772-6c5660-41393c-534a5a"
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
   },
   "mixColors": true,
   "transition": true,
@@ -10,9 +10,6 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "agent-skills": 11,
-    "claude-skills": 9,
-    "sql": 22,
     "اجهزة": 16,
     "المكتبة": 12,
     "بايثون": 19,
@@ -26,7 +23,10 @@
     "فكره_عن_الانسان": 5,
     "كمبيوتر": 14,
     "لغات_برمحية": 18,
-    "مشاريع": 2
+    "مشاريع": 2,
+    "agent-skills": 11,
+    "claude-skills": 9,
+    "sql": 20
   },
   "tagColors": {},
   "_version": 4
