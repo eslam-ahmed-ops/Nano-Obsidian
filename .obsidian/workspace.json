@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "الرئيسية.md",
+                "file": "المال والرزق/حل.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "الرئيسية"
+              "title": "حل"
             }
           }
         ]
@@ -33,7 +33,6 @@
       {
         "id": "e7501c3d7f41f919",
         "type": "tabs",
-        "dimension": 69.89664082687338,
         "children": [
           {
             "id": "4720c2e4f3f54031",
@@ -78,27 +77,6 @@
               },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "44ccb52b1629f86b",
-        "type": "tabs",
-        "dimension": 30.103359173126613,
-        "children": [
-          {
-            "id": "d3ec9aaf25cb1d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "الرئيسية.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "الرئيسية"
             }
           }
         ]
@@ -222,10 +200,12 @@
   },
   "active": "54e74cb87b8f14e6",
   "lastOpenFiles": [
+    "المال والرزق/المديونيات.md",
+    "المال والرزق/حل.md",
+    "الرئيسية.md",
     "علمًا نافعًا/المكتبة/كتب/كتب/الاسلام السياسي.md",
     "علمًا نافعًا/المكتبة/كتب/بدون عنوان.md",
     "ان يتقنه/بدون عنوان.md",
-    "المال والرزق/بدون عنوان.md",
     "المال والرزق/بدون عنوان.base",
     "علمًا نافعًا/المكتبة/كتب/كتب/مزرعة الحيوان 3f8fe160bb484ebd92ecdea9b7ffff57.md",
     "علمًا نافعًا/المكتبة/كتب/كتب/قواعد جارتين f3994df6e8a548539e67b0c8839eca7b.md",
@@ -258,8 +238,6 @@
     "علمًا نافعًا/علمًا نافعًا/كورسات/Data Analasis/Excel مهارات متقدمة في اكسل/لوحة التحكم باستخدام الاكسل Excel Dashboard 373d539d1e59800293e6e2ce2e95ca1d.md",
     "علمًا نافعًا/علمًا نافعًا/كورسات/Ai & Data Science/Timeline (2)/@Python 306d539d1e5980e2b2ecc2c15a1e7fce.md",
     "علمًا نافعًا/علمًا نافعًا/كورسات/Data Analasis/Excel مهارات متقدمة في اكسل/تحليل البيانات باستخدام الاكسل Data Analysis 373d539d1e598088bce6ee28fb214fc6.md",
-    "علمًا نافعًا/علمًا نافعًا/كورسات/Data Analasis/Excel مهارات متقدمة في اكسل/البرمجة باستخدام Excel VBA 373d539d1e598012a735ceb99bd6a8b5.md",
-    "علمًا نافعًا/علمًا نافعًا/كورسات/Ai & Data Science/Timeline (2)/@SQL 310d539d1e5980b79479f63b9fafd620.md",
     "علمًا نافعًا/علمًا نافعًا/كورسات/Ai & Data Science/Data Science ITI/GetResourceFile.pdf",
     "علمًا نافعًا/علمًا نافعًا/برمجة/مراجع اللغات/Python/image.png",
     "علمًا نافعًا/علمًا نافعًا/برمجة/مراجع اللغات/Python/image 1.png",
