@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: جدول
+  - type: list
+    name: عرض
+    indentProperties: true
