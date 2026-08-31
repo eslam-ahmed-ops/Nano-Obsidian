@@ -1,6 +1,28 @@
+formulas:
+  بدون عنوان: ❤️❤️❤️❤️
+properties:
+  formula.بدون عنوان:
+    displayName: نذحن
 views:
   - type: table
     name: جدول
+    filters:
+      and:
+        - file.hasLink("علمًا نافعًا/المكتبة/كتب 2ffd539d1e59805db4b5c0782de176b5.md")
   - type: list
     name: عرض
+    filters:
+      and:
+        - file.inFolder("علمًا نافعًا/المكتبة/كتب")
+    indentProperties: true
+  - type: list
+    name: ر
+    filters:
+      and:
+        - file.inFolder("علمًا نافعًا/المكتبة/كتب")
+    order:
+      - file.basename
+    cardSize: 120
+    imageFit: contain
+    markers: number
     indentProperties: true

@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: جدول
+    filters:
+      and:
+        - file.inFolder("ان يتقنه")
