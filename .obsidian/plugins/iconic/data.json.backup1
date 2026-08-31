@@ -29,9 +29,13 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "المال والرزق": {
+      "icon": "lucide-banknote",
+      "color": "green"
+    },
     "ان يتقنه": {
       "icon": "lucide-briefcase",
-      "color": "green"
+      "color": "blue"
     },
     "ان يتقنه/التربية والتعليم": {
       "icon": "lucide-school",
