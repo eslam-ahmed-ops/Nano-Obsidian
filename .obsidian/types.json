@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "تم": "multitext"
+    "تم": "multitext",
+    "ب": "multitext",
+    "مسار": "multitext",
+    "مسار التعلم": "multitext"
   }
 }

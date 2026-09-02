@@ -105,11 +105,20 @@
     "علمًا نافعًا/المكتبة": {
       "icon": "lucide-landmark",
       "color": "purple"
+    },
+    "علمًا نافعًا/علمًا نافعًا.md": {
+      "icon": "lucide-graduation-cap",
+      "color": "purple"
     }
   },
   "bookmarkIcons": {},
   "tagIcons": {},
-  "propertyIcons": {},
+  "propertyIcons": {
+    "مسار": {
+      "icon": "lucide-route",
+      "color": "orange"
+    }
+  },
   "ribbonIcons": {},
   "fileRules": [],
   "folderRules": []
