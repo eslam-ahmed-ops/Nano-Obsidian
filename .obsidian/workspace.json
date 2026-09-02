@@ -34,7 +34,8 @@
               "title": "Ai & Data Science"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "54e74cb87b8f14e6",
+  "active": "995b44220da8ce3c",
   "lastOpenFiles": [
-    "علمًا نافعًا/كورسات/Ai & Data Science.md",
     "علمًا نافعًا/Untitled.base",
+    "علمًا نافعًا/كورسات/Ai & Data Science.md",
     "علمًا نافعًا/كورسات/Data Analasis.md",
     "علمًا نافعًا/كورسات/كورسات.md",
     "علمًا نافعًا/كورسات",

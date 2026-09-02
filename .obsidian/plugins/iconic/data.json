@@ -114,6 +114,13 @@
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {
+    "التقدم": {
+      "icon": "lucide-circle-dot-dashed",
+      "color": "green"
+    },
+    "تقييم": {
+      "icon": "lucide-star"
+    },
     "مسار التعلم": {
       "icon": "lucide-line-squiggle",
       "color": "yellow"

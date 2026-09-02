@@ -6,6 +6,8 @@
     "تم": "multitext",
     "ب": "multitext",
     "مسار": "multitext",
-    "مسار التعلم": "multitext"
+    "مسار التعلم": "multitext",
+    "تقييم": "multitext",
+    "التقدم": "multitext"
   }
 }
