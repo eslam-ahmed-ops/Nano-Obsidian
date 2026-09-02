@@ -105,11 +105,34 @@
     "علمًا نافعًا/المكتبة": {
       "icon": "lucide-landmark",
       "color": "purple"
+    },
+    "علمًا نافعًا/علمًا نافعًا.md": {
+      "icon": "lucide-graduation-cap",
+      "color": "purple"
     }
   },
   "bookmarkIcons": {},
   "tagIcons": {},
-  "propertyIcons": {},
+  "propertyIcons": {
+    "Link": {
+      "icon": "link-glyph"
+    },
+    "التقدم": {
+      "icon": "lucide-circle-dot-dashed",
+      "color": "green"
+    },
+    "تقييم": {
+      "icon": "lucide-star"
+    },
+    "مسار التعلم": {
+      "icon": "lucide-line-squiggle",
+      "color": "yellow"
+    },
+    "مسار": {
+      "icon": "lucide-route",
+      "color": "orange"
+    }
+  },
   "ribbonIcons": {},
   "fileRules": [],
   "folderRules": []

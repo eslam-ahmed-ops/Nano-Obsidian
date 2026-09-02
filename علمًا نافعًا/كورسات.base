@@ -1,0 +1,17 @@
+properties:
+  note.تم:
+    displayName: تقييم
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "علمًا نافعًا/كورسات"
+    order:
+      - file.name
+      - مسار التعلم
+      - مسار
+      - تقييم
+      - التقدم
+    cardSize: 300
+    imageAspectRatio: 1

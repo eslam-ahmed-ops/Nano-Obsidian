@@ -28,5 +28,6 @@
   "rightToLeft": true,
   "openBehavior": "file:الرئيسية.md",
   "newFileLocation": "root",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }
