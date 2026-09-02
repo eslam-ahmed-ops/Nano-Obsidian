@@ -114,6 +114,9 @@
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {
+    "Link": {
+      "icon": "link-glyph"
+    },
     "التقدم": {
       "icon": "lucide-circle-dot-dashed",
       "color": "green"
