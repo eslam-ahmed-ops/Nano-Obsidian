@@ -4,4 +4,9 @@ views:
     filters:
       and:
         - file.folder == "علمًا نافعًا/كورسات"
-    cardSize: 310
+    order:
+      - file.name
+      - مسار
+      - مسار التعلم
+    cardSize: 300
+    imageAspectRatio: 1
