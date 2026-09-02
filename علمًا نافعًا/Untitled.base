@@ -6,7 +6,7 @@ views:
         - file.folder == "علمًا نافعًا/كورسات"
     order:
       - file.name
-      - مسار
       - مسار التعلم
+      - مسار
     cardSize: 300
     imageAspectRatio: 1

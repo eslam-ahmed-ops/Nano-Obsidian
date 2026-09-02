@@ -114,6 +114,10 @@
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {
+    "مسار التعلم": {
+      "icon": "lucide-line-squiggle",
+      "color": "yellow"
+    },
     "مسار": {
       "icon": "lucide-route",
       "color": "orange"
