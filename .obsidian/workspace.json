@@ -11,14 +11,13 @@
             "id": "54e74cb87b8f14e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "علمًا نافعًا/علمًا نافعًا.md",
-                "mode": "source",
-                "source": false
+                "file": "علمًا نافعًا/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "علمًا نافعًا"
+              "icon": "lucide-layout-grid",
+              "title": "Untitled"
             }
           },
           {
@@ -27,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "علمًا نافعًا/كورسات.md",
+                "file": "علمًا نافعًا/كورسات/كورسات.md",
                 "mode": "source",
                 "source": false
               },
@@ -215,13 +214,14 @@
   },
   "active": "54e74cb87b8f14e6",
   "lastOpenFiles": [
-    "علمًا نافعًا/صورة علما نافعا.png",
-    "علمًا نافعًا/علمًا نافعًا.md",
-    "علمًا نافعًا/كورسات.md",
-    "علمًا نافعًا/روابط التعلم.md",
-    "علمًا نافعًا/Data Analasis.md",
-    "علمًا نافعًا/Ai & Data Science.md",
+    "علمًا نافعًا/كورسات/كورسات.md",
     "علمًا نافعًا/Untitled.base",
+    "علمًا نافعًا/كورسات",
+    "علمًا نافعًا/علمًا نافعًا.md",
+    "علمًا نافعًا/صورة علما نافعا.png",
+    "علمًا نافعًا/روابط التعلم.md",
+    "علمًا نافعًا/كورسات/Data Analasis.md",
+    "علمًا نافعًا/كورسات/Ai & Data Science.md",
     "برمجة/برمجة.md",
     "علمًا نافعًا/Python/Python.md",
     "علمًا نافعًا/كورسات 5e120345ffe74d42b816732b81851440.csv.md",
@@ -258,7 +258,6 @@
     "علمًا نافعًا/علمًا نافعًا/برمجة/مراجع اللغات/Python/image.png",
     "علمًا نافعًا/علمًا نافعًا/برمجة/مراجع اللغات/Python/image 1.png",
     "علمًا نافعًا/علمًا نافعًا/كورسات/مسار علم البيانات/Untitled 2ffd539d1e59804f9a94cd61c8e55419.csv",
-    "علمًا نافعًا/علمًا نافعًا/كورسات/Data Analasis/Introduction to Data Analytics",
     "علمًا نافعًا/Python/image.png",
     "Untitled.canvas"
   ]

@@ -1,6 +1,7 @@
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       and:
-        - file.hasLink("علمًا نافعًا/كورسات.md")
+        - file.folder == "علمًا نافعًا/كورسات"
+    cardSize: 310
