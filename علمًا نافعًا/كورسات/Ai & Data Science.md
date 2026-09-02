@@ -12,7 +12,10 @@
   - Archive
 Link:
 ---
+---
+[[Data Science ITI]]  |
 
+---
 ## Enthicsprofessional Words 150
 
 - [x] خريطة طريقة مهن الذكاء الاصطناعي
@@ -66,4 +69,21 @@ Link:
 - [ ] Lunching Machine Learning Models (Mhara - Tech) 10 h
 
 
-# Sources
+
+### Mathimatic & Statistics
+
+- [ ] Linear algebra (Matrix Multiplication, vectors, Determinants)
+- [ ] calculus (Chain Rule, Partial Derivatives)
+- [ ] Descriptive statistics (middle, standard deviation, variance)
+- [ ] probability (normal distribution, Bayes’ Theorem)
+### SSSSS
+
+- [ ] استكشاف الذكاء التوليدي: ادواته واستخداماته
+- [ ] الذكاء التوليدي: ادوات للمطور العصري
+- [ ] تطوير تطبيقات مدعومة بالذكاء الاصطناعي التوليدي وذاتية التفاعل ساعتان
+- [ ] برمجة بايقاع سلس باستخدام github copilot 40 دقيقة
+- [ ] مقدمة عملية في الذكاء التوليدي 5 ساعات
+- [ ] مقدمة في طرق الاسترجاع التوليدي المعزز 3 ساعات
+- [ ] تطبيقات الاسترجاع التوليدي المعزز ساعتان
+- [ ] 
+- [ ] 
