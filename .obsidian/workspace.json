@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "علمًا نافعًا/المكتبة/سجل المكتبة/Absolute Sword Sense.md",
+                "file": "علمًا نافعًا/المكتبة/سجل المكتبة/ارض زيكولا.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Absolute Sword Sense"
+              "title": "ارض زيكولا"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#روايات",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,8 +231,8 @@
   },
   "active": "d342dbc32163c6bd",
   "lastOpenFiles": [
-    "علمًا نافعًا/المكتبة/سجل المكتبة.base",
     "علمًا نافعًا/المكتبة/سجل المكتبة/Absolute Sword Sense.md",
+    "علمًا نافعًا/المكتبة/سجل المكتبة.base",
     "علمًا نافعًا/المكتبة/سجل المكتبة/ارض زيكولا.md",
     "علمًا نافعًا/المكتبة/سجل المكتبة/Myst Might Mayhem.md",
     "علمًا نافعًا/المكتبة/مانهوا.md",
