@@ -29,6 +29,10 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "اغتنم وقتك.md": {
+      "icon": "lucide-house",
+      "color": "orange"
+    },
     "المال والرزق": {
       "icon": "lucide-banknote",
       "color": "green"
