@@ -3,14 +3,11 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "تم": "multitext",
-    "ب": "multitext",
     "مسار": "multitext",
     "مسار التعلم": "multitext",
     "تقييم": "multitext",
     "التقدم": "multitext",
     "حالة": "multitext",
-    "نوع": "multitext",
     "سن": "multitext",
     "الكاتب": "multitext"
   }
