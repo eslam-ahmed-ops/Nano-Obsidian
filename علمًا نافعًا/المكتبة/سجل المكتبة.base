@@ -1,0 +1,16 @@
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - file.folder == "علمًا نافعًا/المكتبة/سجل المكتبة"
+    order:
+      - file.name
+      - حالة
+      - تقييم
+      - الكاتب
+      - tags
+      - النوع
+      - سن
+      - نوع
+    indentProperties: true

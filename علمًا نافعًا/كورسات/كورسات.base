@@ -6,7 +6,7 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "علمًا نافعًا/كورسات"
+        - file.folder == "علمًا نافعًا/كورسات/سجل الكورسات"
     order:
       - file.name
       - مسار التعلم

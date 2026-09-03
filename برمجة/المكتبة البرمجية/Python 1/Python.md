@@ -1,12 +1,8 @@
 ---
 tags:
   - بايثون
-تم:
-aliases:
 مسار التعلم: سطر.كود
 مسار: AI
-cssclasses:
-ب:
 ---
 
 
@@ -532,7 +528,7 @@ print(TIME)#02 05 17
 
 ```
 
-![image.png](Python/image.png)
+![image.png](image.png)
 
 ### Advanced Sequence | أنواع البيانات المتقدمة بشكل اعمق
 
@@ -729,7 +725,7 @@ print(TIME)#02 05 17
     print(v.isdigit())#false هل تحتوي على ارقام فقط
     ```
     
-    ![image.png](Python/image%201.png)
+    ![image.png](image%201.png)
     
 - الدالة replace
     - أخذ نص معين والتغيير عليه
