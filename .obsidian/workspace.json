@@ -11,10 +11,13 @@
             "id": "54e74cb87b8f14e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "علمًا نافعًا/المكتبة/Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-list",
+              "title": "Untitled"
             }
           },
           {
@@ -45,7 +48,8 @@
               "title": "Absolute Sword Sense"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,10 +227,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "54e74cb87b8f14e6",
+  "active": "d342dbc32163c6bd",
   "lastOpenFiles": [
-    "علمًا نافعًا/المكتبة/سجل المكتبة/Absolute Sword Sense.md",
     "علمًا نافعًا/المكتبة/Untitled.base",
+    "علمًا نافعًا/المكتبة/سجل المكتبة/Absolute Sword Sense.md",
     "علمًا نافعًا/المكتبة/مانهوا.md",
     "علمًا نافعًا/المكتبة/سجل المكتبة/قواعد جارتين.md",
     "علمًا نافعًا/المكتبة/كتب/بدون عنوان.md",

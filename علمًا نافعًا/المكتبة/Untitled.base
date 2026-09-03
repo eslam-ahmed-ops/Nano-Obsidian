@@ -4,4 +4,9 @@ views:
     filters:
       and:
         - file.folder == "علمًا نافعًا/المكتبة/سجل المكتبة"
+    order:
+      - file.name
+      - حالة
+      - نوع
+      - تقييم
     indentProperties: true

@@ -8,6 +8,8 @@
     "مسار": "multitext",
     "مسار التعلم": "multitext",
     "تقييم": "multitext",
-    "التقدم": "multitext"
+    "التقدم": "multitext",
+    "حالة": "multitext",
+    "نوع": "multitext"
   }
 }
