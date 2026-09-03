@@ -7,9 +7,10 @@ views:
     order:
       - file.name
       - حالة
-      - نوع
       - تقييم
-      - سن
       - الكاتب
       - tags
+      - النوع
+      - سن
+      - نوع
     indentProperties: true

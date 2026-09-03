@@ -124,6 +124,9 @@
     "الكاتب": {
       "icon": "lucide-pen-line"
     },
+    "النوع": {
+      "icon": "lucide-section"
+    },
     "تقييم": {
       "icon": "lucide-star"
     },
