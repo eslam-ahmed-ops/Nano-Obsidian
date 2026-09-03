@@ -11,6 +11,7 @@
     "التقدم": "multitext",
     "حالة": "multitext",
     "نوع": "multitext",
-    "سن": "multitext"
+    "سن": "multitext",
+    "الكاتب": "multitext"
   }
 }

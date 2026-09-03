@@ -10,4 +10,5 @@ views:
       - نوع
       - تقييم
       - سن
+      - الكاتب
     indentProperties: true

@@ -121,6 +121,9 @@
       "icon": "lucide-circle-dot-dashed",
       "color": "green"
     },
+    "الكاتب": {
+      "icon": "lucide-pen-line"
+    },
     "تقييم": {
       "icon": "lucide-star"
     },
