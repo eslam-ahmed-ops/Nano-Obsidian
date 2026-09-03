@@ -124,6 +124,9 @@
     "تقييم": {
       "icon": "lucide-star"
     },
+    "حالة": {
+      "icon": "lucide-info"
+    },
     "مسار التعلم": {
       "icon": "lucide-line-squiggle",
       "color": "yellow"
@@ -131,6 +134,9 @@
     "مسار": {
       "icon": "lucide-route",
       "color": "orange"
+    },
+    "نوع": {
+      "icon": "lucide-section"
     }
   },
   "ribbonIcons": {},

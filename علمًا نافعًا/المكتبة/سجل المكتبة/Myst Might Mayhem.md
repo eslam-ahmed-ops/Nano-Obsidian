@@ -1,4 +1,4 @@
-# Absolute Sword Sense
+
 
 حالة: Done
 نوع: رواية
