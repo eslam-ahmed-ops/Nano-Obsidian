@@ -127,6 +127,9 @@
     "حالة": {
       "icon": "lucide-info"
     },
+    "سن": {
+      "icon": "lucide-calendar"
+    },
     "مسار التعلم": {
       "icon": "lucide-line-squiggle",
       "color": "yellow"

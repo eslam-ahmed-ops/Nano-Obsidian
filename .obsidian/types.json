@@ -10,6 +10,7 @@
     "تقييم": "multitext",
     "التقدم": "multitext",
     "حالة": "multitext",
-    "نوع": "multitext"
+    "نوع": "multitext",
+    "سن": "multitext"
   }
 }
