@@ -11,4 +11,5 @@ views:
       - تقييم
       - سن
       - الكاتب
+      - tags
     indentProperties: true

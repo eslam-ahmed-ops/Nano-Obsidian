@@ -39,13 +39,14 @@
             "id": "d342dbc32163c6bd",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "علمًا نافعًا/المكتبة/سجل المكتبة.base",
-                "viewName": "Table"
+                "file": "علمًا نافعًا/المكتبة/سجل المكتبة/Absolute Sword Sense.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-list",
-              "title": "سجل المكتبة"
+              "icon": "lucide-file",
+              "title": "Absolute Sword Sense"
             }
           }
         ],
@@ -229,10 +230,10 @@
   },
   "active": "d342dbc32163c6bd",
   "lastOpenFiles": [
+    "علمًا نافعًا/المكتبة/سجل المكتبة.base",
     "علمًا نافعًا/المكتبة/سجل المكتبة/Absolute Sword Sense.md",
     "علمًا نافعًا/المكتبة/سجل المكتبة/ارض زيكولا.md",
     "علمًا نافعًا/المكتبة/سجل المكتبة/Myst Might Mayhem.md",
-    "علمًا نافعًا/المكتبة/سجل المكتبة.base",
     "علمًا نافعًا/المكتبة/مانهوا.md",
     "علمًا نافعًا/المكتبة/سجل المكتبة/قواعد جارتين.md",
     "علمًا نافعًا/المكتبة/كتب/بدون عنوان.md",
