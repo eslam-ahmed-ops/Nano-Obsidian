@@ -63,6 +63,9 @@
     "برمجة/وكلاء الذكاء الاصطناعي/تطوير ذكاء اصطناعي": {
       "icon": "lucide-bot-message-square"
     },
+    "برمجة/وكلاء الذكاء الاصطناعي/مهارة التعامل مع الوكلاء": {
+      "icon": "lucide-brain-circuit"
+    },
     "عقل ثاني": {
       "icon": "lucide-brain-cog",
       "color": "cyan"

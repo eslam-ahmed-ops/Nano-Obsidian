@@ -29,6 +29,10 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "اغتنم وقتك.md": {
+      "icon": "lucide-house",
+      "color": "orange"
+    },
     "المال والرزق": {
       "icon": "lucide-banknote",
       "color": "green"
@@ -59,6 +63,9 @@
     "برمجة/وكلاء الذكاء الاصطناعي/تطوير ذكاء اصطناعي": {
       "icon": "lucide-bot-message-square"
     },
+    "برمجة/وكلاء الذكاء الاصطناعي/مهارة التعامل مع الوكلاء": {
+      "icon": "lucide-brain-circuit"
+    },
     "عقل ثاني": {
       "icon": "lucide-brain-cog",
       "color": "cyan"
@@ -84,6 +91,9 @@
     },
     "عقل ثاني/تقنية عجيبة/تطبيقات مفيدة": {
       "icon": "lucide-app-window"
+    },
+    "عقل ثاني/متنوع": {
+      "icon": "lucide-section"
     },
     "عقل ثاني/ملاحظات يومية": {
       "icon": "lucide-notebook-pen"
@@ -121,8 +131,20 @@
       "icon": "lucide-circle-dot-dashed",
       "color": "green"
     },
+    "الكاتب": {
+      "icon": "lucide-pen-line"
+    },
+    "النوع": {
+      "icon": "lucide-section"
+    },
     "تقييم": {
       "icon": "lucide-star"
+    },
+    "حالة": {
+      "icon": "lucide-info"
+    },
+    "سن": {
+      "icon": "lucide-calendar"
     },
     "مسار التعلم": {
       "icon": "lucide-line-squiggle",
@@ -131,6 +153,9 @@
     "مسار": {
       "icon": "lucide-route",
       "color": "orange"
+    },
+    "نوع": {
+      "icon": "lucide-section"
     }
   },
   "ribbonIcons": {},
