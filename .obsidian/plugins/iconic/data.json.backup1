@@ -121,8 +121,20 @@
       "icon": "lucide-circle-dot-dashed",
       "color": "green"
     },
+    "الكاتب": {
+      "icon": "lucide-pen-line"
+    },
+    "النوع": {
+      "icon": "lucide-section"
+    },
     "تقييم": {
       "icon": "lucide-star"
+    },
+    "حالة": {
+      "icon": "lucide-info"
+    },
+    "سن": {
+      "icon": "lucide-calendar"
     },
     "مسار التعلم": {
       "icon": "lucide-line-squiggle",
@@ -131,6 +143,9 @@
     "مسار": {
       "icon": "lucide-route",
       "color": "orange"
+    },
+    "نوع": {
+      "icon": "lucide-section"
     }
   },
   "ribbonIcons": {},
