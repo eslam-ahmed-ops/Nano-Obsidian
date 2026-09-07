@@ -10,11 +10,8 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "agent-skills": 11,
-    "claude-skills": 9,
-    "sql": 20,
-    "terminal": 23,
     "اجهزة": 16,
+    "التعريب": 31,
     "الصف_4": 24,
     "الصف_5": 25,
     "الصف_6": 26,
@@ -31,7 +28,11 @@
     "كمبيوتر": 14,
     "لغات_برمحية": 18,
     "مال": 30,
-    "مشاريع": 2
+    "مشاريع": 2,
+    "agent-skills": 11,
+    "claude-skills": 9,
+    "sql": 20,
+    "terminal": 23
   },
   "tagColors": {},
   "_version": 4
