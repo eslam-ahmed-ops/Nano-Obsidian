@@ -60,6 +60,10 @@
       "icon": "lucide-toolbox",
       "color": "cyan"
     },
+    "برمجة/وكلاء الذكاء الاصطناعي/الوكلاء المحليين": {
+      "icon": "lucide-rectangle-goggles",
+      "color": "green"
+    },
     "برمجة/وكلاء الذكاء الاصطناعي/تطوير ذكاء اصطناعي": {
       "icon": "lucide-bot-message-square"
     },
