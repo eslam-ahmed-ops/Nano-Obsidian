@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"762df91c89de9fdc","type":"file","file":"عقل ثاني/متنوع/Pasted image 20260902143326.png","x":-200,"y":-200,"width":400,"height":160},
+		{"id":"0a42fb1dac2cf930","type":"text","text":"طريقة تصميم الكورسات\n","x":-136,"y":131,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"8efe67e09f97f880","fromNode":"762df91c89de9fdc","fromSide":"bottom","toNode":"0a42fb1dac2cf930","toSide":"top"}
+	]
+}
