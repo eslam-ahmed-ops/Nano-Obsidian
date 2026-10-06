@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "اغتنم وقتك.md",
+                "file": "علمًا نافعًا/علمًا نافعًا.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "اغتنم وقتك"
+              "title": "علمًا نافعًا"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "عقل ثاني/وجهات نظر/فكرة عن الانسان/بدون عنوان.md",
+                "file": "اغتنم وقتك.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "بدون عنوان"
+              "title": "اغتنم وقتك"
             }
           }
         ]
@@ -237,9 +237,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d342dbc32163c6bd",
+  "active": "43815fa00e830eec",
   "lastOpenFiles": [
     "عقل ثاني/وجهات نظر/فكرة عن الانسان/بدون عنوان.md",
+    "علمًا نافعًا/علمًا نافعًا.md",
     "اغتنم وقتك.md",
     "عقل ثاني/متنوع/حتي يسأل عن عمره، فيم افناه؟.png",
     "conflict-files-obsidian-git.md",
@@ -261,7 +262,6 @@
     "Untitled.md",
     "علمًا نافعًا/Track Name.pdf",
     "حتي يسأل عن عمره، فيم افناه؟.png",
-    "علمًا نافعًا/علمًا نافعًا.md",
     "علمًا نافعًا/كورسات.base",
     "كورسات.md",
     "برمجة/المكتبة البرمجية/المكتبة البرمجية.md",
