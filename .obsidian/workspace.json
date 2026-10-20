@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "اغتنم وقتك"
             }
+          },
+          {
+            "id": "69643275dd9b33fc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-10-20 22.57.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-20 22.57.49.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,8 +214,11 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "0a5e895785fa418c",
+  "active": "69643275dd9b33fc",
   "lastOpenFiles": [
+    "اغتنم وقتك.md",
+    "Excalidraw/Drawing 2026-10-20 22.57.49.excalidraw.md",
+    "Excalidraw",
     "copilot/skills/miyo-parse/SKILL.md",
     "copilot/skills/miyo-parse/miyo-parse.cmd",
     "copilot/skills/miyo-parse/miyo-parse.sh",
@@ -219,7 +235,6 @@
     "copilot/skills/obsidian-bases/LICENSE",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-bases/references",
     "copilot/skills/obsidian-markdown/SKILL.md",
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
@@ -229,7 +244,6 @@
     "copilot/skills/copilot-fetch-x/SKILL.md",
     "copilot/skills/copilot-youtube-transcript/SKILL.md",
     "Untitled.canvas",
-    "اغتنم وقتك.md",
     "علمًا نافعًا/علمًا نافعًا.md",
     "عقل ثاني/عقل ثاني.md",
     "المال والرزق/المال والرزق.md",
@@ -240,7 +254,6 @@
     "عقل ثاني/متنوع/حتي يسأل عن عمره، فيم افناه؟.png",
     "conflict-files-obsidian-git.md",
     "عقل ثاني/وجهات نظر/تنمية الدولة من وجهه نظر شخصية/التربية والتعليم/فكره حول تطوير نظام التعليم في مصر.md",
-    "عقل ثاني/وجهات نظر/تنمية الدولة من وجهه نظر شخصية/السياسة والبرلمان/فكره عن حل للوضع الحالى في فلسطين.md",
     "عقل ثاني/متنوع/لو ان الناس كلما استصعبوا امرا تركوه.png",
     "عقل ثاني/متنوع/Pasted image 20260902143326.png",
     "Pasted image 20260902143345.png",
