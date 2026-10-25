@@ -12,8 +12,6 @@
   "knownTags": {
     "agent-skills": 1,
     "claude-skills": 2,
-    "excalidraw": 26,
-    "nested": 27,
     "sql": 3,
     "terminal": 4,
     "اجهزة": 5,
@@ -36,8 +34,7 @@
     "كمبيوتر": 22,
     "لغات_برمحية": 23,
     "مال": 24,
-    "مشاريع": 25,
-    "nested/tag": 1
+    "مشاريع": 25
   },
   "tagColors": {},
   "_version": 4
