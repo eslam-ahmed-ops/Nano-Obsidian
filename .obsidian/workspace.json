@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "اغتنم وقتك"
             }
+          },
+          {
+            "id": "bc1d0de21ec97c2a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-10-25 05.31.09.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-25 05.31.09.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,9 +227,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "69643275dd9b33fc",
+  "active": "bc1d0de21ec97c2a",
   "lastOpenFiles": [
     "اغتنم وقتك.md",
+    "Excalidraw/Drawing 2026-10-25 05.31.09.excalidraw.md",
     "Excalidraw/Drawing 2026-10-20 22.57.49.excalidraw.md",
     "Excalidraw",
     "copilot/skills/miyo-parse/SKILL.md",
@@ -254,7 +267,6 @@
     "عقل ثاني/وجهات نظر/فكرة عن الانسان/بدون عنوان.md",
     "عقل ثاني/متنوع/حتي يسأل عن عمره، فيم افناه؟.png",
     "conflict-files-obsidian-git.md",
-    "عقل ثاني/وجهات نظر/تنمية الدولة من وجهه نظر شخصية/التربية والتعليم/فكره حول تطوير نظام التعليم في مصر.md",
     "عقل ثاني/متنوع/لو ان الناس كلما استصعبوا امرا تركوه.png",
     "عقل ثاني/متنوع/Pasted image 20260902143326.png",
     "Pasted image 20260902143345.png",
