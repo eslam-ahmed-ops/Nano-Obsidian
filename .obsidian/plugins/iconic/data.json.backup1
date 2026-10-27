@@ -29,6 +29,10 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "AI_Harness": {
+      "icon": "lucide-astroid",
+      "color": "purple"
+    },
     "اغتنم وقتك.md": {
       "icon": "lucide-house",
       "color": "orange"
