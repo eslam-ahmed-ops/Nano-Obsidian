@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI_Harness/workflows/PLAN_MANAGEMENT.md",
+                "file": "علمًا نافعًا/علمًا نافعًا.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PLAN_MANAGEMENT"
+              "title": "علمًا نافعًا"
             }
           }
         ]
@@ -201,11 +201,11 @@
   },
   "active": "6a4551d0104a92c3",
   "lastOpenFiles": [
+    "AI_Harness/workflows/PLAN_MANAGEMENT.md",
     "AI_Harness/tasks/VAULT_IMPROVEMENT_TASKS.md",
     "AI_Harness/plans/README.md",
     "اغتنم وقتك.md",
     "AI_Harness/review/README.md",
-    "AI_Harness/workflows/PLAN_MANAGEMENT.md",
     "AI_Harness/plans",
     "AI_Harness/skills/knowledge-note-review/SKILL.md",
     "AI_Harness/tasks/README.md",
