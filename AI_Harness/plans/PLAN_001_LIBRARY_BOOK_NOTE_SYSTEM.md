@@ -1,7 +1,7 @@
 ---
 plan_number: 001
 title: Library Book Note System
-status: Draft
+status: In Progress
 created: 2026-10-28
 scope: Existing library notes under the current Obsidian Vault
 approval_required: true

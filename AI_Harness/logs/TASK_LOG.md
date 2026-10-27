@@ -53,3 +53,13 @@ Record actual Harness task execution here. Use a new dated entry for each task.
 - Approvals relied upon: User request in this task.
 - Validation: Passed; `PLAN_001_LIBRARY_BOOK_NOTE_SYSTEM.md` exists and the plan is marked `Draft`.
 - Result and follow-up: Awaiting approval of the schema before creating a template or changing library notes.
+
+## 2026-10-28 — Begin library system implementation
+
+- Task: Begin implementation of the approved library book-note system.
+- Scope: New Harness template plus the existing library index and database view.
+- Actions performed: Created `templates/LIBRARY_BOOK_NOTE_TEMPLATE.md`; documented the reading workflow in `علمًا نافعًا/المكتبة/فهرس المكتبة.md`; added new metadata columns to `سجل المكتبة.base`; and marked library metadata and navigation tasks as `In Progress`.
+- Files intentionally not changed: Existing individual book notes and Arabic folder names.
+- Approvals relied upon: User instruction to start execution.
+- Validation: Passed; the template, library index section, and database view exist and contain the expected book-system fields.
+- Result and follow-up: Template and index foundation are ready; pilot migration remains the next controlled step.

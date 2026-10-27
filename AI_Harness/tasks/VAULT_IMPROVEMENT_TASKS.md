@@ -32,7 +32,7 @@ This list converts the read-only Vault audit recommendations into actionable tas
 ## Priority 2 — Structure and metadata
 
 - [ ] **IMPROVEMENT-004 — Standardize library metadata**  
-  Status: `Pending`  
+  Status: `In Progress`  
   Targets: `علمًا نافعًا/المكتبة/سجل المكتبة/`  
   Actions: standardize YAML fields for status, type, rating, author, age, and tags; normalize status values; complete missing fields; and preserve the existing Arabic filenames.
 
@@ -47,7 +47,7 @@ This list converts the read-only Vault audit recommendations into actionable tas
   Actions: fill, convert to a documented template, archive, or retain intentionally after review; do not delete automatically.
 
 - [ ] **IMPROVEMENT-007 — Improve indexes and navigation pages**  
-  Status: `Pending`  
+  Status: `In Progress`  
   Targets: root index notes such as `برمجة.md`, `عقل ثاني.md`, `علمًا نافعًا.md`, and `المال والرزق.md`  
   Actions: add missing sections, repair stale links, document folder purpose, and add clear next-step navigation.
 

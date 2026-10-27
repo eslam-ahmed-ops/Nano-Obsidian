@@ -9,6 +9,7 @@ The AI Harness is a control and workflow layer for this Obsidian Vault. It helps
 - `workflows/` defines repeatable audit, drafting, and review procedures.
 - `tasks/` records task briefs and task-specific working material.
 - `plans/` stores numbered execution plans in sequential order.
+- `templates/` stores approved English-named templates for repeatable note structures.
 - `review/` is the default location for AI-generated drafts awaiting human review.
 - `logs/` records actual execution and verified Harness changes.
 - `tests/` records acceptance checks for the Harness itself.
