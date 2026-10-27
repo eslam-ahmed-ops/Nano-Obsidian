@@ -10,5 +10,6 @@ Record only verified changes to the AI Harness. Do not record changes to existin
 - Added `tasks/VAULT_IMPROVEMENT_TASKS.md` containing the prioritized Vault improvement backlog.
 - Added `plans/PLAN_001_LIBRARY_BOOK_NOTE_SYSTEM.md` proposing a structured book-note and reading workflow.
 - Added `templates/LIBRARY_BOOK_NOTE_TEMPLATE.md` for new and approved migrated book notes.
+- Applied the book-note structure to three pilot notes while preserving their original metadata and content.
 - Confirmed no existing file was overwritten.
 - Confirmed existing Arabic folders and notes were not modified.

@@ -63,3 +63,13 @@ Record actual Harness task execution here. Use a new dated entry for each task.
 - Approvals relied upon: User instruction to start execution.
 - Validation: Passed; the template, library index section, and database view exist and contain the expected book-system fields.
 - Result and follow-up: Template and index foundation are ready; pilot migration remains the next controlled step.
+
+## 2026-10-28 — Book-note pilot migration
+
+- Task: Continue implementation with a three-note pilot migration.
+- Scope: Three existing notes under `علمًا نافعًا/المكتبة/سجل المكتبة/`.
+- Actions performed: Added standardized English metadata and structured sections for `العادات الذرية`, `الأب الغني و الأب الفقير`, and `Solo Leveling`; preserved legacy metadata; left unverified summaries and quotations explicitly pending.
+- Files intentionally not changed: Other book notes, Arabic folder names, and non-pilot knowledge notes.
+- Approvals relied upon: User instruction to continue execution.
+- Validation: Passed; all three notes contain status, Quick Summary, Central Ideas, Important Quotes, and retained original metadata.
+- Result and follow-up: Pilot structure is ready for review; broader migration should proceed in small approved batches.
