@@ -196,14 +196,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "2eaa55e6ea71bd2a",
   "lastOpenFiles": [
+    "اغتنم وقتك.md",
     "علمًا نافعًا/كورسات/سجل الكورسات/Ai & Data Science.md",
     "علمًا نافعًا/علمًا نافعًا.md",
-    "اغتنم وقتك.md",
     "ان يتقنه/ان يتقنه.md",
     "برمجة/برمجة.md",
     "عقل ثاني/عقل ثاني.md",
