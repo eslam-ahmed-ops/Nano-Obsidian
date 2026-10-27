@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI_Harness/review/README.md",
+                "file": "AI_Harness/workflows/PLAN_MANAGEMENT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "PLAN_MANAGEMENT"
             }
           }
         ]
@@ -199,16 +199,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "4720c2e4f3f54031",
+  "active": "6a4551d0104a92c3",
   "lastOpenFiles": [
-    "AI_Harness/workflows/PLAN_MANAGEMENT.md",
+    "AI_Harness/tasks/VAULT_IMPROVEMENT_TASKS.md",
     "AI_Harness/plans/README.md",
+    "اغتنم وقتك.md",
+    "AI_Harness/review/README.md",
+    "AI_Harness/workflows/PLAN_MANAGEMENT.md",
     "AI_Harness/plans",
     "AI_Harness/skills/knowledge-note-review/SKILL.md",
     "AI_Harness/tasks/README.md",
     "AI_Harness/tests/ACCEPTANCE_TESTS.md",
     "AI_Harness/AGENTS.md",
-    "اغتنم وقتك.md",
     "Ai Manger/اختبارات النظام/اختبارات القبول.md",
     "AI_Harness/README.md",
     "AI_Harness/skills/safe-note-drafting",
@@ -235,8 +237,6 @@
     "Excalidraw/Drawing 2026-10-25 05.31.09.excalidraw.md",
     "Excalidraw/Drawing 2026-10-20 22.57.49.excalidraw.md",
     "copilot/skills/miyo-parse/SKILL.md",
-    "copilot/skills/obsidian-cli/SKILL.md",
-    "copilot/skills/json-canvas/SKILL.md",
     "Untitled.canvas",
     "عقل ثاني/متنوع/حتي يسأل عن عمره، فيم افناه؟.png",
     "عقل ثاني/متنوع/لو ان الناس كلما استصعبوا امرا تركوه.png",

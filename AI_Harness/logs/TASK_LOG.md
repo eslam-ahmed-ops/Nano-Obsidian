@@ -33,3 +33,13 @@ Record actual Harness task execution here. Use a new dated entry for each task.
 - Approvals relied upon: User request in this task.
 - Validation: Passed; `AI_Harness/plans/`, `plans/README.md`, and `workflows/PLAN_MANAGEMENT.md` exist, and the Harness contains 18 files.
 - Result and follow-up: Plans must use the next unused `PLAN_###_ENGLISH_SLUG.md` filename and remain separate from execution approval.
+
+## 2026-10-27 — Vault improvement backlog
+
+- Task: Convert the audit recommendations into a task list.
+- Scope: `AI_Harness/tasks/` and Harness logs only.
+- Actions performed: Added `VAULT_IMPROVEMENT_TASKS.md` with prioritized integrity, safety, metadata, content, attachment, and maintenance tasks.
+- Files intentionally not changed: Existing knowledge folders and notes.
+- Approvals relied upon: User request in this task.
+- Validation: Passed; the task file exists, contains 15 numbered improvement tasks, and all Harness filenames remain English.
+- Result and follow-up: Tasks remain `Pending` until individually approved and executed.
