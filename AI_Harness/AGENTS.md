@@ -15,6 +15,7 @@ Before acting, read:
 
 - Treat existing knowledge notes as user-owned and preserve them.
 - Keep all Harness names, filenames, instructions, logs, and test documents in English.
+- Produce new Vault notes and other knowledge outputs in Arabic unless the user explicitly requests another language. Keep `AI_Harness/` content in English, except execution plans, which remain in Arabic.
 - Store AI-generated drafts under `review/` by default.
 - Store every requested execution plan under `plans/` using the sequential naming rule defined in `workflows/PLAN_MANAGEMENT.md`.
 - Prefer read-only inspection and explicit, narrow changes.

@@ -124,46 +124,46 @@ Write a short personal summary in 3–7 sentences.
 
 ## خطة التنفيذ
 
-### Phase 1 — Confirm the schema
+### المرحلة الأولى — اعتماد النموذج
 
 1. Approve the fields and section names in this plan.
-2. Decide whether the body is primarily Arabic, English, or mixed.
+2. Use Arabic for all new book-note headings and content.
 3. Confirm the rating scale and whether audience or age fields are needed.
 
-### Phase 2 — Create the template
+### المرحلة الثانية — إنشاء القالب
 
-1. Create an English-named book template in an approved template location.
-2. Keep the metadata and sections consistent.
-3. Add a copyright-aware rule to keep quotations short and cite pages.
+1. إنشاء قالب باسم إنجليزي في مكان معتمد للقوالب.
+2. الحفاظ على ثبات الحقول والأقسام.
+3. إضافة قاعدة تراعي حقوق النشر وتطلب إبقاء الاقتباسات قصيرة مع ذكر الصفحات.
 
-### Phase 3 — Prepare the library index
+### المرحلة الثالثة — تجهيز فهرس المكتبة
 
-1. Review `علمًا نافعًا/المكتبة/فهرس المكتبة.md`.
-2. Repair navigation links without renaming Arabic folders or notes.
-3. Improve the existing library database view to show status, category, rating, and author.
+1. مراجعة `علمًا نافعًا/المكتبة/فهرس المكتبة.md`.
+2. إصلاح روابط التنقل دون إعادة تسمية المجلدات أو الملاحظات العربية.
+3. تحسين عرض قاعدة بيانات المكتبة لإظهار الحالة والتصنيف والتقييم والمؤلف.
 
-### Phase 4 — Pilot migration
+### المرحلة الرابعة — الترحيل التجريبي
 
-1. Select three books: one planned, one completed, and one incomplete.
-2. Apply the template only after approval.
-3. Preserve existing content and label uncertain material for review.
-4. Refine the template before wider migration.
+1. اختيار ثلاثة كتب: كتاب مخطط، وكتاب مكتمل، وكتاب غير مكتمل.
+2. تطبيق القالب بعد الموافقة فقط.
+3. الحفاظ على المحتوى الموجود ووضع المواد غير المؤكدة تحت قسم للمراجعة.
+4. تحسين القالب قبل الترحيل الأوسع.
 
-### Phase 5 — Gradual migration
+### المرحلة الخامسة — الترحيل التدريجي
 
-1. Migrate small batches grouped by category.
-2. Never delete or overwrite existing summaries.
-3. Label whether each summary came from the publisher or the reader.
-4. Validate links and database fields after every batch.
+1. ترحيل دفعات صغيرة مجمعة حسب التصنيف.
+2. عدم حذف أو استبدال الملخصات الموجودة.
+3. تحديد ما إذا كان كل ملخص من الناشر أو من القارئ.
+4. التحقق من الروابط وحقول قاعدة البيانات بعد كل دفعة.
 
-### Phase 6 — Reading workflow
+### المرحلة السادسة — سير القراءة
 
-1. Create the note with `status: Planned`.
-2. Add metadata and the back-cover summary before reading.
-3. Change status to `Reading` and keep short reading-log entries.
-4. Capture ideas as they emerge instead of copying large passages.
-5. On completion, write the quick summary, central ideas, short quotes, takeaways, and actions.
-6. Revisit the note later and add a delayed review.
+1. إنشاء الملاحظة مع `status: Planned`.
+2. إضافة البيانات وملخص الغلاف قبل القراءة.
+3. تغيير الحالة إلى `Reading` وتسجيل ملاحظات قصيرة أثناء القراءة.
+4. تسجيل الأفكار عند ظهورها بدل نسخ مقاطع طويلة.
+5. عند الانتهاء، كتابة الملخص السريع والأفكار المحورية والاقتباسات القصيرة والاستفادة والإجراءات.
+6. مراجعة الملاحظة لاحقًا وإضافة مراجعة مؤجلة.
 
 ## Acceptance criteria
 
@@ -180,3 +180,11 @@ Write a short personal summary in 3–7 sentences.
 ## Approval boundary
 
 This plan proposes a system only. Creating a template, changing the index, configuring database views, or migrating existing book notes requires approval for that specific step.
+
+## Implementation progress
+
+- The template, library index, and database view are implemented.
+- Eighteen identified book notes have the standardized metadata and Arabic structure.
+- The empty `Untitled.md` record remains unchanged because its book identity is unknown.
+- Summaries, central ideas, and quotations remain explicitly pending when no verified source or reader content was available.
+- The plan remains `In Progress` until the remaining unidentified record is resolved and the content sections are filled from reliable sources or the reader's notes.

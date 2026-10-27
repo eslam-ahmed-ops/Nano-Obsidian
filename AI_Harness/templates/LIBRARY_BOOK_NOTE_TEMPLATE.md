@@ -13,6 +13,8 @@ tags:
   - library
 ---
 
+<!-- When this template is used to create a Vault note, translate the headings and write the note content in Arabic. The template and Harness instructions remain in English. -->
+
 # Book Title
 
 ## Quick Metadata

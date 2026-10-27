@@ -19,6 +19,8 @@ The AI Harness is a control and workflow layer for this Obsidian Vault. It helps
 
 The existing knowledge base remains authoritative. Existing Arabic folders and notes must not be renamed, moved, or modified by default. The Harness may describe them in English while preserving their Arabic names exactly.
 
+New Vault knowledge notes and other knowledge outputs are written in Arabic by default. Harness control files remain in English, while execution plans are written in Arabic by default.
+
 New AI-generated drafts belong under `review/` unless the user explicitly authorizes another location. Human review is required before a draft is integrated into the knowledge base.
 
 ## How to use it

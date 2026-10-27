@@ -14,59 +14,59 @@ tags:
 
 # Solo Leveling
 
-## Legacy Metadata
+## البيانات القديمة
 
 حالة: Done
 نوع: رواية
 
-## Quick Metadata
+## البيانات الأساسية
 
-- Author:
-- Category: Manhwa
-- Status: Completed
-- Source:
+- المؤلف:
+- التصنيف: مانهوا
+- الحالة: مكتمل
+- المصدر:
 
-## Back-cover Summary
+## ملخص الغلاف
 
-> To be added from an identified publisher or official source.
+> لم يُضف بعد. يجب نقله من مصدر رسمي أو موثوق مع تسجيل المصدر.
 
-Source: Pending
+المصدر: قيد الإضافة
 
-## Quick Summary
+## الملخص السريع
 
-To be written in 3–7 sentences from the reader's understanding.
+لم يُكتب بعد. اكتب ملخصًا شخصيًا في 3–7 جمل.
 
-## Central Ideas
+## الأفكار المحورية
 
-### Idea 1 — To be added
+### الفكرة الأولى — قيد الإضافة
 
-- Claim:
-- Explanation:
-- Example from the book:
-- Chapter or page:
-- My interpretation:
+- الفكرة:
+- الشرح:
+- المثال من الكتاب:
+- الفصل أو الصفحة:
+- تعليقي:
 
-## Important Quotes
+## الاقتباسات المهمة
 
-No quotes added yet. Add short quotes with chapter or page references.
+لم تُضف اقتباسات بعد. أضف اقتباسات قصيرة مع رقم الفصل أو الصفحة.
 
-## Personal Takeaways
+## الاستفادة الشخصية
 
-- What changed in my understanding?
-- What should I test in real life?
+- ما الذي تغير في فهمي؟
+- ما الذي ينبغي تجربته عمليًا؟
 
-## Action Items
+## إجراءات لاحقة
 
-- [ ] Add the quick summary.
-- [ ] Add the central ideas with chapter references.
+- [ ] إضافة الملخص السريع.
+- [ ] إضافة الأفكار المحورية مع الفصول.
 
-## Review
+## المراجعة
 
-- Rating:
-- What was useful:
-- What was weak or unclear:
-- Would I recommend it?
+- التقييم:
+- ما كان مفيدًا:
+- ما كان ضعيفًا أو غير واضح:
+- هل أوصي به؟
 
-## Reading Log
+## سجل القراءة
 
-- Status at migration: Completed
+- الحالة عند الترحيل: مكتمل

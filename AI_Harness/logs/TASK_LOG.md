@@ -73,3 +73,13 @@ Record actual Harness task execution here. Use a new dated entry for each task.
 - Approvals relied upon: User instruction to continue execution.
 - Validation: Passed; all three notes contain status, Quick Summary, Central Ideas, Important Quotes, and retained original metadata.
 - Result and follow-up: Pilot structure is ready for review; broader migration should proceed in small approved batches.
+
+## 2026-10-28 — Full library structure migration
+
+- Task: Continue all structural migration phases for the library book-note system.
+- Scope: Identified book notes under `علمًا نافعًا/المكتبة/` plus the Arabic output rule in the Harness.
+- Actions performed: Added the Arabic-output rule; standardized metadata and Arabic sections for 18 identified book notes; added organization guidance to `مانهوا.md`; preserved the unknown `سجل المكتبة/Untitled.md` record.
+- Files intentionally not changed: The unidentified blank record, original Arabic folder names, and unverified content that lacked a source.
+- Approvals relied upon: User instruction to complete the phases.
+- Validation: Passed; 18 book notes have standardized status fields and the five core Arabic sections. One unidentified blank record remains for later review.
+- Result and follow-up: Structural migration is complete for identified books. Content enrichment (summaries, central ideas, and verified quotes) remains a reader/source-dependent phase.

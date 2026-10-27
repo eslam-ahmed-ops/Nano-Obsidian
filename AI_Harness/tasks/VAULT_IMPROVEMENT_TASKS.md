@@ -42,12 +42,12 @@ This list converts the read-only Vault audit recommendations into actionable tas
   Actions: define consistent course fields, fix incomplete properties, remove blank checklist entries, and separate course status from the list of possible statuses.
 
 - [ ] **IMPROVEMENT-006 — Replace empty notes with intentional states**  
-  Status: `Pending`  
+  Status: `In Progress`  
   Targets: all empty Markdown notes identified by the audit  
   Actions: fill, convert to a documented template, archive, or retain intentionally after review; do not delete automatically.
 
-- [ ] **IMPROVEMENT-007 — Improve indexes and navigation pages**  
-  Status: `In Progress`  
+- [x] **IMPROVEMENT-007 — Improve indexes and navigation pages**  
+  Status: `Completed`  
   Targets: root index notes such as `برمجة.md`, `عقل ثاني.md`, `علمًا نافعًا.md`, and `المال والرزق.md`  
   Actions: add missing sections, repair stale links, document folder purpose, and add clear next-step navigation.
 
