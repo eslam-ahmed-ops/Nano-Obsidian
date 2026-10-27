@@ -29,6 +29,10 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "Ai Manger": {
+      "icon": "lucide-astroid",
+      "color": "purple"
+    },
     "اغتنم وقتك.md": {
       "icon": "lucide-house",
       "color": "orange"
