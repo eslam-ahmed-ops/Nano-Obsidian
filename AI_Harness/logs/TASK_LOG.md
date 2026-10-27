@@ -43,3 +43,13 @@ Record actual Harness task execution here. Use a new dated entry for each task.
 - Approvals relied upon: User request in this task.
 - Validation: Passed; the task file exists, contains 15 numbered improvement tasks, and all Harness filenames remain English.
 - Result and follow-up: Tasks remain `Pending` until individually approved and executed.
+
+## 2026-10-28 — Library book note system
+
+- Task: Propose and save a structured system for book summaries, central ideas, quotes, and reading progress.
+- Scope: `AI_Harness/plans/PLAN_001_LIBRARY_BOOK_NOTE_SYSTEM.md` only.
+- Actions performed: Created the first numbered execution plan with a book-note schema, lifecycle, pilot migration, gradual migration, reading workflow, and acceptance criteria.
+- Files intentionally not changed: Existing library notes, Arabic folders, and knowledge content.
+- Approvals relied upon: User request in this task.
+- Validation: Passed; `PLAN_001_LIBRARY_BOOK_NOTE_SYSTEM.md` exists and the plan is marked `Draft`.
+- Result and follow-up: Awaiting approval of the schema before creating a template or changing library notes.
