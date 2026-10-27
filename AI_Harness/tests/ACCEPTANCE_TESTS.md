@@ -13,6 +13,8 @@ Record actual validation results. A check is complete only when it has been run 
 - [x] No second Vault was created.
 - [x] No existing AI-related notes were moved.
 - [x] New drafts are directed to `AI_Harness/review/` by default.
+- [x] Requested execution plans are directed to `AI_Harness/plans/`.
+- [x] Plan numbering uses the next unused three-digit number and English filename slugs.
 - [x] Skill files use the supported `SKILL.md` format.
 - [x] No root-level `AGENTS.md` was created because Harness-local scope is sufficient.
 
