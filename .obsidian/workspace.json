@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/Mathematics.md",
+                "file": "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/01 Roadmap/AI_Research_Roadmap_52_Weeks_Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathematics"
+              "title": "AI_Research_Roadmap_52_Weeks_Obsidian"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/AI Research Dashboard.md",
+                "file": "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/01 Roadmap/AI_Research_Roadmap_52_Weeks_Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Research Dashboard"
+              "title": "AI_Research_Roadmap_52_Weeks_Obsidian"
             }
           }
         ]
@@ -213,11 +213,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "6a4551d0104a92c3",
+  "active": "4720c2e4f3f54031",
   "lastOpenFiles": [
-    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/Transformers.md",
+    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/00 Dashcoard/AI Research Dashboard.md",
+    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/AI Research Roadmap — 52 Weeks.md",
+    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/01 Roadmap/AI_Research_Roadmap_52_Weeks_Obsidian.md",
     "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/Weekly Review Template.md",
-    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/AI_Research_Roadmap_52_Weeks_Obsidian.md",
+    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/Transformers.md",
+    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/Mathematics.md",
+    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/Machine Learning.md",
+    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/Deep Learning.md",
+    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/AI Vocabulary.md",
     "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/07 English",
     "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/06 Projects",
     "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/05 Experiments",
@@ -226,16 +232,10 @@
     "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/02 Weekly Logs",
     "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/01 Roadmap",
     "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/00 Dashcoard",
-    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/AI Research Dashboard.md",
     "علمًا نافعًا/علمًا نافعًا.md",
     "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science",
     "علمًا نافعًا/كورسات/سجل الكورسات/Ai & Data Science.md",
     "علمًا نافعًا/كورسات/Data Science ITI.md",
-    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/AI Research Roadmap — 52 Weeks.md",
-    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/Deep Learning.md",
-    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/Machine Learning.md",
-    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/Mathematics.md",
-    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/AI Vocabulary.md",
     "AI_Research_Roadmap_52_Weeks_Obsidian.md.crdownload",
     "برمجة/المكتبة البرمجية/Python/NumPy.md",
     "اغتنم وقتك.md",
