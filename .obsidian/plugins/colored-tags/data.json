@@ -11,9 +11,13 @@
   },
   "knownTags": {
     "agent-skills": 1,
+    "ai": 35,
     "ai_agents": 28,
     "claude-skills": 2,
+    "learning": 36,
     "library": 34,
+    "machine-learning": 37,
+    "research": 38,
     "sql": 3,
     "terminal": 4,
     "اتقان_العمل": 29,
@@ -43,7 +47,8 @@
     "مال": 24,
     "مال_ورزق": 32,
     "مشاريع": 25,
-    "وكلاء_الذكاء_الاصطناعي": 33
+    "وكلاء_الذكاء_الاصطناعي": 33,
+    "learning/roadmap": 1
   },
   "tagColors": {},
   "_version": 4
