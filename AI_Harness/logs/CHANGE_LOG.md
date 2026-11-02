@@ -13,5 +13,12 @@ Record only verified changes to the AI Harness. Do not record changes to existin
 - Applied the book-note structure to three pilot notes while preserving their original metadata and content.
 - Applied the Arabic book-note structure and standardized metadata to the remaining identified library book notes; left the unidentified `Untitled.md` record unchanged.
 - Added Arabic organization guidance to `علمًا نافعًا/المكتبة/مانهوا.md`.
+- Moved programming reference material to `علمًا نافعًا/مراجع برمجية/`.
+- Moved AI-agent learning material to `علمًا نافعًا/مفاهيم الذكاء الاصطناعي/`.
+- Moved the educational-platform project to `ان يتقنه/مشاريع/تعليمية/`.
+- Converted `برمجة/برمجة.md` into a legacy transition index.
+- Converted `اغتنم وقتك.md` into the main task dashboard.
+- Added the Arabic tag taxonomy and project destination directories.
+- Updated the unified plan metadata and recorded the architecture migration in the task log.
 - Confirmed no existing file was overwritten.
 - Confirmed existing Arabic folders and notes were not modified.

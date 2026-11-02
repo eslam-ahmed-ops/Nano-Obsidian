@@ -18,6 +18,13 @@ Record actual validation results. A check is complete only when it has been run 
 - [x] Plan numbering uses the next unused three-digit number and English filename slugs.
 - [x] Skill files use the supported `SKILL.md` format.
 - [x] No root-level `AGENTS.md` was created because Harness-local scope is sufficient.
+- [x] Learning references were moved to `علمًا نافعًا/مراجع برمجية/`.
+- [x] AI-agent learning notes were moved to `علمًا نافعًا/مفاهيم الذكاء الاصطناعي/`.
+- [x] The educational-platform project was moved to `ان يتقنه/مشاريع/تعليمية/`.
+- [x] `برمجة/برمجة.md` is a transition index and the old content directories are absent.
+- [x] `اغتنم وقتك.md` contains Inbox, Today, This Week, Next Actions, Waiting, Someday, and Completed sections.
+- [x] New destination indexes use the Arabic hierarchical tag taxonomy.
+- [x] No files were deleted during the migration.
 
 ## Follow-up checks
 

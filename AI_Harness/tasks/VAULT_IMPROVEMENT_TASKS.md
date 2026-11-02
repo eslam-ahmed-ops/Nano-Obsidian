@@ -12,27 +12,27 @@ This list converts the read-only Vault audit recommendations into actionable tas
 ## Priority 1 — Integrity and safety
 
 - [ ] **IMPROVEMENT-001 — Repair and disambiguate internal links**  
-  Status: `Pending`  
+  Status: `In Progress`  
   Targets: index notes under `برمجة/`, `علمًا نافعًا/`, and `عقل ثاني/`  
   Actions: audit wikilinks, replace incorrect paths, make duplicate targets explicit, and verify image, PDF, Base, and Canvas references.  
   Approval: required before editing existing notes.
 
 - [ ] **IMPROVEMENT-002 — Protect and structure sensitive financial notes**  
-  Status: `Pending`  
+  Status: `In Progress`  
   Targets: `المال والرزق/المديونيات.md`, `المال والرزق/حل.md`  
   Actions: add privacy guidance, separate current financial data from repayment strategy, add update dates and currency fields, and verify calculations.  
   Approval: required before editing existing notes.
 
 - [ ] **IMPROVEMENT-003 — Review security-sensitive AI instructions**  
-  Status: `Pending`  
+  Status: `In Progress`  
   Targets: AI tool setup and privacy notes under `برمجة/وكلاء الذكاء الاصطناعي/`  
   Actions: add sources and verification dates, remove or clearly label default credentials, redact secrets if present, and separate historical notes from current instructions.  
   Approval: required before editing existing notes.
 
 ## Priority 2 — Structure and metadata
 
-- [ ] **IMPROVEMENT-004 — Standardize library metadata**  
-  Status: `In Progress`  
+- [x] **IMPROVEMENT-004 — Standardize library metadata**  
+  Status: `Completed` for identified library notes; one unidentified blank record remains.  
   Targets: `علمًا نافعًا/المكتبة/سجل المكتبة/`  
   Actions: standardize YAML fields for status, type, rating, author, age, and tags; normalize status values; complete missing fields; and preserve the existing Arabic filenames.
 
@@ -69,7 +69,7 @@ This list converts the read-only Vault audit recommendations into actionable tas
   Actions: keep the page as a dashboard, move actionable work into a structured task system, and add status, priority, area, and due-date fields.
 
 - [ ] **IMPROVEMENT-011 — Add evidence and review dates to changing technical notes**  
-  Status: `Pending`  
+  Status: `In Progress`  
   Targets: hardware, local-model, pricing, and tool recommendation notes  
   Actions: add source, last-verified date, confidence, assumptions, and an expiry or review reminder for volatile claims.
 
@@ -86,7 +86,7 @@ This list converts the read-only Vault audit recommendations into actionable tas
 ## Priority 4 — Attachments and maintenance
 
 - [ ] **IMPROVEMENT-014 — Review unclassified attachments**  
-  Status: `Pending`  
+  Status: `In Progress`  
   Targets: images, the PDF, Base files, and Canvas files found during the audit  
   Actions: verify that each attachment is intentionally referenced, add descriptive context where useful, and document orphaned or obsolete attachments before any cleanup.
 

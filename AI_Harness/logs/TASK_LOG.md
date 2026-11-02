@@ -83,3 +83,13 @@ Record actual Harness task execution here. Use a new dated entry for each task.
 - Approvals relied upon: User instruction to complete the phases.
 - Validation: Passed; 18 book notes have standardized status fields and the five core Arabic sections. One unidentified blank record remains for later review.
 - Result and follow-up: Structural migration is complete for identified books. Content enrichment (summaries, central ideas, and verified quotes) remains a reader/source-dependent phase.
+
+## 2026-11-02 — Unified Vault architecture migration
+
+- Task: Implement the unified architecture plan for learning, projects, tasks, tags, and the legacy programming area.
+- Scope: `علمًا نافعًا/`, `ان يتقنه/`, `برمجة/`, `اغتنم وقتك.md`, and related Harness guidance.
+- Actions performed: Moved programming references to `علمًا نافعًا/مراجع برمجية/`, moved AI-agent learning notes to `علمًا نافعًا/مفاهيم الذكاء الاصطناعي/`, moved the educational-platform project to `ان يتقنه/مشاريع/تعليمية/`, created destination indexes, converted `برمجة.md` to a transition index, converted `اغتنم وقتك.md` into the main task dashboard, and added the Arabic tag taxonomy.
+- Files intentionally not changed: Existing knowledge content was preserved during moves; no files were deleted.
+- Approvals relied upon: User instruction to implement the supplied plan.
+- Validation: Passed destination, stale-source, task-dashboard, and project-index checks; the tag audit remains in progress for legacy notes.
+- Result and follow-up: `برمجة` is now a legacy transition area; remaining work is the final link/tag audit and gradual legacy cleanup.

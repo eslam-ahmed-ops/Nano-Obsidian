@@ -1,13 +1,13 @@
 ---
 plan_number: 001
-title: Library Book Note System
+title: Unified Vault Improvement Plan
 status: In Progress
 created: 2026-10-28
-scope: Existing library notes under the current Obsidian Vault
+scope: Unified Vault architecture, learning, projects, tasks, tags, and library notes
 approval_required: true
 ---
 
-# خطة نظام ملاحظات الكتب في المكتبة
+# الخطة الموحدة لتحسين بنية الخزنة
 
 ## الفكرة الأساسية
 
@@ -188,3 +188,12 @@ This plan proposes a system only. Creating a template, changing the index, confi
 - The empty `Untitled.md` record remains unchanged because its book identity is unknown.
 - Summaries, central ideas, and quotations remain explicitly pending when no verified source or reader content was available.
 - The plan remains `In Progress` until the remaining unidentified record is resolved and the content sections are filled from reliable sources or the reader's notes.
+
+## توسعة الخطة — بنية الخزنة والوسوم والمهام
+
+- `علمًا نافعًا` هو مكان التعلم والمراجع والكورسات والكتب.
+- `ان يتقنه` هو مكان المشاريع والتطبيقات والتجارب.
+- `اغتنم وقتك.md` هو لوحة المهام الرئيسية.
+- `برمجة` أصبح فهرس انتقال قديمًا بعد ترحيل أقسامه الأساسية.
+- الوسوم الجديدة تستخدم قاموسًا عربيًا هرميًا في `instructions/TAG_TAXONOMY.md`.
+- الملاحظات الجديدة في الخزنة بالعربية، وملفات Harness بالإنجليزية، والخطط بالعربية.
