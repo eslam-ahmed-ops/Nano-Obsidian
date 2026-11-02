@@ -106,6 +106,13 @@
     "علمًا نافعًا/علمًا نافعًا.md": {
       "icon": "lucide-graduation-cap",
       "color": "purple"
+    },
+    "علمًا نافعًا/كورسات": {
+      "icon": "lucide-school",
+      "color": "orange"
+    },
+    "علمًا نافعًا/مراجع برمجية": {
+      "icon": "lucide-folder-bookmark"
     }
   },
   "bookmarkIcons": {},

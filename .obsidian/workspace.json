@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a4551d0104a92c3",
+            "id": "6a78788b80ae8f5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/03 Concepts/Python/Python Fundamentals.md",
+                "file": "اغتنم وقتك.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Fundamentals"
-            }
-          },
-          {
-            "id": "6a78788b80ae8f5f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "اغتنم وقتك"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,17 +200,21 @@
   },
   "active": "6a78788b80ae8f5f",
   "lastOpenFiles": [
+    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/03 Concepts/Python/Python Fundamentals.md",
+    "اغتنم وقتك.md",
+    "AI_Harness/README.md",
+    "ان يتقنه/مشاريع.md",
+    "علمًا نافعًا/علمًا نافعًا.md",
+    "AI_Harness/instructions/TAG_TAXONOMY.md",
+    "عقل ثاني/وجهات نظر/فكرة عن الانسان/Screenshot_٢٠٢٦٠٨١٠_١٥٣٤١٢_YouTube.jpg",
     "علمًا نافعًا/مفاهيم الذكاء الاصطناعي.md",
     "برمجة/برمجة.md",
-    "اغتنم وقتك.md",
     "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/01 Roadmap/AI_Research_Roadmap_52_Weeks_Obsidian.md",
     "AI_Harness/review/TAG_AUDIT.md",
-    "AI_Harness/instructions/TAG_TAXONOMY.md",
     "ان يتقنه/تجارب وأتمتة",
     "ان يتقنه/مشاريع/تجارية",
     "ان يتقنه/مشاريع/ذكاء اصطناعي",
     "ان يتقنه/مشاريع/برمجية",
-    "ان يتقنه/مشاريع.md",
     "علمًا نافعًا/مراجع برمجية.md",
     "ان يتقنه/مشاريع/تعليمية/تطوير منصة تعليمية/خطوات وخطط تطوير منصة تعليمية.md",
     "ان يتقنه/مشاريع/تعليمية/تطوير منصة تعليمية",
@@ -247,9 +239,6 @@
     "علمًا نافعًا/مراجع برمجية/المكتبة البرمجية/Python 1/image 1.png",
     "علمًا نافعًا/مراجع برمجية/المكتبة البرمجية/Python 1/image.png",
     "علمًا نافعًا/مراجع برمجية/المكتبة البرمجية/SQL/SQL.md",
-    "علمًا نافعًا/مراجع برمجية/المكتبة البرمجية/Python/Python.md",
-    "علمًا نافعًا/مراجع برمجية/المكتبة البرمجية/Python/NumPy.md",
-    "علمًا نافعًا/مراجع برمجية/المكتبة البرمجية/المكتبة البرمجية.md",
     "Untitled.canvas",
     "عقل ثاني/متنوع/حتي يسأل عن عمره، فيم افناه؟.png",
     "عقل ثاني/متنوع/لو ان الناس كلما استصعبوا امرا تركوه.png",
@@ -257,7 +246,6 @@
     "Pasted image 20260902143345.png",
     "Pasted image 20260902143326.png",
     "حتي يسأل عن عمره، فيم افناه؟.png",
-    "علمًا نافعًا/صورة علما نافعا.png",
-    "علمًا نافعًا/علمًا نافعًا/كورسات/Data Analasis/Introduction to Data Analytics/licensed-image.jpg"
+    "علمًا نافعًا/صورة علما نافعا.png"
   ]
 }
