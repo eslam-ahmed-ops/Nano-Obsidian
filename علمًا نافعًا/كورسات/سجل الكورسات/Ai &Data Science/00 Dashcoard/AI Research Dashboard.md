@@ -15,7 +15,7 @@
 - [[AI Vocabulary]]
 - [[Weekly Review Template]]
 - [[Python Fundamentals]]
-- [[NumPy]]
+- [[علمًا نافعًا/مراجع برمجية/المكتبة البرمجية/Python/NumPy/NumPy]]
 - [[Pandas]]
 - [[Mathematics]]
 - [[Machine Learning]]
