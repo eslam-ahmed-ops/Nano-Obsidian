@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "اغتنم وقتك.md",
+                "file": "علمًا نافعًا/مراجع برمجية/المكتبة البرمجية/Python/NumPy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "اغتنم وقتك"
+              "title": "NumPy"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "6a78788b80ae8f5f",
   "lastOpenFiles": [
-    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/03 Concepts/Python/Python Fundamentals.md",
     "اغتنم وقتك.md",
+    "علمًا نافعًا/كورسات/سجل الكورسات/Ai &Data Science/03 Concepts/Python/Python Fundamentals.md",
     "AI_Harness/README.md",
     "ان يتقنه/مشاريع.md",
     "علمًا نافعًا/علمًا نافعًا.md",
